@@ -10,6 +10,7 @@ Tornado <br>
 
 
 ## Usage
-The app using `python hello-world.py` <br>
-To run in debug mode, add `--debug=true` <br>
+To run the app: `python hello-world.py` <br>
+To run the app in debug mode: `python hello-world.py --debug=true` <br>
+
 
